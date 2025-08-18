@@ -1,6 +1,6 @@
 # Sistema-de-Arquivos-Simplificado
 Este projeto foi desenvolvido com um propósito didático, aplicando os conhecimentos vistos nas aulas de Sistemas Operacionsis.
-
+### Integrantes: Antônio Correia, Artur Gabriel, Luis Eduardo, Nicolas Matheus, Rafael Machado, Vitor Leonardo
 
 
 # EXPLICAÇÃO COMPLETA DO CÓDIGO - SISTEMA DE ARQUIVOS SIMPLIFICADO (SFS)

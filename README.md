@@ -1,5 +1,5 @@
 # Sistema-de-Arquivos-Simplificado
-Este projeto foi desenvolvido com um propósito didático, aplicando os conhecimentos vistos nas aulas de Sistemas Operacionsis.
+Este projeto foi desenvolvido com finalidade didática, visando à aplicação prática dos conhecimentos adquiridos nas aulas de Sistemas Operacionais.
 ### Integrantes: Antônio Correia, Artur Gabriel, Luis Eduardo, Nicolas Matheus, Rafael Machado, Vitor Leonardo
 
 

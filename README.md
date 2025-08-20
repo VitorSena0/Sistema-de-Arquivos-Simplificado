@@ -384,5 +384,3 @@ Contadores   Estado      Inodes/Blocos
 8. read teste.txt            → Recupera dados (persistência funcionou!)
 ```
 
-Este sistema implementa todos os conceitos fundamentais de um sistema de arquivos real, de forma simplificada mas funcionalmente completa. É uma excelente base para entender como sistemas como ext4, NTFS e outros funcionam internamente.
-
